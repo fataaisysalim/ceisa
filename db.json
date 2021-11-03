@@ -129,7 +129,32 @@
       "namaPengangkut":"Fata",
       "nomorFlight":"123123",
       "kodePelMuat":"12123",
-      "namaPelMuat":"Fata"
+      "namaPelMuat":"Fata",
+      "kodePelBongkar":"123123",
+      "namaPelBongkar":"Fata",
+      "kodeMarketplace":"123123",
+      "namaMarketplace":"Fata",
+      "nomorInvoice":"123123",
+      "tanggalInvoice":"2021-12-12",
+      "kodeNegaraAsal":"123123",
+      "namaNegaraAsal":"Rusia",
+      "nomorBC11":"123123",
+      "tanggalBC11":"2021-12-12",
+      "posBC11":"123123",
+      "kodeGudang":"123123",
+      "namaGudang":"Gudang",
+      "nomorMaster":"123123",
+      "tanggalMaster":"2021-12-12",
+      "nomorHouse":"123123",
+      "kodeJenisIdentitas":"123123",
+      "nomorIdentitas":"123123",
+      "npwpBilling":"123123",
+      "alamatPenerima":"123123",
+      "nomorTelpPenerima":"123123",
+      "namaPengirim":"Fata",
+      "alamatPengirim":"123123",
+      "kodeNegaraPengirim":"123123",
+      "namaNegaraPengirim":"Negara Pengirim"
     }
   }
 }
