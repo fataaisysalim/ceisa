@@ -154,7 +154,15 @@
       "namaPengirim":"Fata",
       "alamatPengirim":"123123",
       "kodeNegaraPengirim":"123123",
-      "namaNegaraPengirim":"Negara Pengirim"
+      "namaNegaraPengirim":"Negara Pengirim",
+       "kodeValuta":"USD",
+      "ndpbm":"123123",
+      "fobTotal":"123123",
+      "asuransiTotal":"123123",
+      "freightTotal":"123123",
+      "cifTotal":"123123",
+      "netto":"123123",
+      "bruto":"123123",
     }
   }
 }
