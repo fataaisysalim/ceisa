@@ -198,10 +198,10 @@
     "count": "5",
     "data": [
 	{
-      "nomorBarkir":"000001",
+      "nomorBarkir":"000001-0000002-00000003",
       "jenisAju":"JNS-01",
       "npwpPemberitahu":"00001",
-      "nmPemberitahu":"Fata",
+      "nmPemberitahu":"Fataqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq",
       "nmPenerima":"Fata",
       "alamatPenerima":"Bekasi",
       "cif":"00001",
@@ -209,10 +209,10 @@
       "curentStatus":"OK"
     },
 	{
-      "nomorBarkir":"000002",
+      "nomorBarkir":"000001-0000002-00000003",
       "jenisAju":"JNS-02",
       "npwpPemberitahu":"00002",
-      "nmPemberitahu":"Fata",
+      "nmPemberitahu":"Fataqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq",
       "nmPenerima":"Fata",
       "alamatPenerima":"Bekasi",
       "cif":"00002",
