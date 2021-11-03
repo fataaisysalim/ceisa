@@ -192,5 +192,33 @@
       "nipLhp":"123123",
       "ketLhp":"123123"
     }
+  },
+   "perekamanAtensi": {
+    "message": true,
+    "count": "5",
+    "data": [
+	{
+      "nomorBarkir":"000001",
+      "jenisAju":"JNS-01",
+      "npwpPemberitahu":"00001",
+      "nmPemberitahu":"Fata",
+      "nmPenerima":"Fata",
+      "alamatPenerima":"Bekasi",
+      "cif":"00001",
+      "tglHouseBlawb":"2021-12-12",
+      "curentStatus":"OK"
+    },
+	{
+      "nomorBarkir":"000002",
+      "jenisAju":"JNS-02",
+      "npwpPemberitahu":"00002",
+      "nmPemberitahu":"Fata",
+      "nmPenerima":"Fata",
+      "alamatPenerima":"Bekasi",
+      "cif":"00002",
+      "tglHouseBlawb":"2021-12-12",
+      "curentStatus":"OK"
+    }
+	]
   }
 }
