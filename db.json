@@ -220,9 +220,8 @@
       "curentStatus":"OK"
     }
 	]
-  }
-},
-   "pdadBrowse": {
+  },
+  "pdadBrowse": {
     "message": true,
     "count": "5",
     "data": [
