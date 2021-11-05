@@ -228,7 +228,7 @@
 	{
       "nomorBarkir":"000001-0000002-00000003",
       "jenisAju":"JNS-01",
-      "npwpPemberitahu":"00001",
+      "npwpPemberitahus":"00001",
       "nmPemberitahu":"Fata",
       "nmPenerima":"Fata",
       "alamatPenerima":"Bekasi",
@@ -246,7 +246,7 @@
       "nomorBarkir":"000001-0000002-00000003",
       "jenisAju":"JNS-02",
       "npwpPemberitahu":"00002",
-      "nmPemberitahu":"Fatax",
+      "nmPemberitahus":"Fatax",
       "nmPenerima":"Fatax",
       "alamatPenerima":"Bekasi",
       "cif":"00002",
