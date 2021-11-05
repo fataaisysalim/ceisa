@@ -221,4 +221,45 @@
     }
 	]
   }
+},
+   "pdadBrowse": {
+    "message": true,
+    "count": "5",
+    "data": [
+	{
+      "nomorBarkir":"000001-0000002-00000003",
+      "jenisAju":"JNS-01",
+      "npwpPemberitahu":"00001",
+      "nmPemberitahu":"Fataqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq",
+      "nmPenerima":"Fata",
+      "alamatPenerima":"Bekasi",
+      "cif":"00001",
+      "tglHouseBlawb":"2021-12-12",
+      "curentStatus":"OK",
+	  "namaPDTT" : "Udin Marudin",
+	  "cifAwal" : "123123",
+	  "cifAkhir" : "123123",
+	  "fobAwal" : "123123",
+	  "fobAkhir" : "12312",
+	  "kdBilling" : "123123"
+    },
+	{
+      "nomorBarkir":"000001-0000002-00000003",
+      "jenisAju":"JNS-02",
+      "npwpPemberitahu":"00002",
+      "nmPemberitahu":"Fataqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq",
+      "nmPenerima":"Fata",
+      "alamatPenerima":"Bekasi",
+      "cif":"00002",
+      "tglHouseBlawb":"2021-12-12",
+      "curentStatus":"OK",
+	  "namaPDTT" : "Udin Marudin",
+	  "cifAwal" : "123123",
+	  "cifAkhir" : "123123",
+	  "fobAwal" : "123123",
+	  "fobAkhir" : "12312",
+	  "kdBilling" : "123123"
+    }
+	]
+  }
 }
